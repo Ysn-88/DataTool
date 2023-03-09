@@ -1,0 +1,32 @@
+<input>
+	<company name="Salecom" employees="612">
+		<outposts>4</outposts>
+		<salesVolume>1511678.25</salesVolume>
+		<profit>648550.18</profit>
+	</company>
+	<company name="Netzsprache" employees="126">
+		<outposts>2</outposts>
+		<salesVolume>656543.71</salesVolume>
+		<profit>148550.06</profit>
+	</company>
+	<company name="Noname Ltd." employees="438">
+		<outposts>5</outposts>
+		<salesVolume>7511678.43</salesVolume>
+		<profit>513778.38</profit>
+	</company>
+	<company name="Mystery puppets" employees="855">
+		<outposts>3</outposts>
+		<salesVolume>9511678.84</salesVolume>
+		<profit>1448324.66</profit>
+	</company>
+	<company name="Klinkenputzer AG" employees="1647">
+		<outposts>19</outposts>
+		<salesVolume>79536721.17</salesVolume>
+		<profit>12452791.43</profit>
+	</company>
+	<company name="Scare Ltd." employees="47">
+		<outposts>2</outposts>
+		<salesVolume>611721.17</salesVolume>
+		<profit>-43791.43</profit>
+	</company>
+</input>

@@ -1,0 +1,15 @@
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\obj\Debug\net6.0\DataToolAufgabe.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\obj\Debug\net6.0\DataToolAufgabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\obj\Debug\net6.0\DataToolAufgabe.AssemblyInfoInputs.cache
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\obj\Debug\net6.0\DataToolAufgabe.AssemblyInfo.cs
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\obj\Debug\net6.0\DataToolAufgabe.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\bin\Debug\net6.0\DataToolAufgabe.exe
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\bin\Debug\net6.0\DataToolAufgabe.deps.json
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\bin\Debug\net6.0\DataToolAufgabe.runtimeconfig.json
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\bin\Debug\net6.0\DataToolAufgabe.dll
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\bin\Debug\net6.0\DataToolAufgabe.pdb
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\obj\Debug\net6.0\DataToolAufgabe.dll
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\obj\Debug\net6.0\refint\DataToolAufgabe.dll
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\obj\Debug\net6.0\DataToolAufgabe.pdb
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\obj\Debug\net6.0\DataToolAufgabe.genruntimeconfig.cache
+C:\Users\x\Desktop\Icsys-bewerber-aufgabe\DataToolAufgabe\DataToolAufgabe\obj\Debug\net6.0\ref\DataToolAufgabe.dll

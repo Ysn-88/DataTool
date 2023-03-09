@@ -1,0 +1,7 @@
+<actions>
+	<action name="profitSum" type="element" function="sum" source="profit" filter=".*Ltd."/>
+	<action name="employeesSum" type="attribute" function="sum" source="employees" filter=".*m.*"/>
+	<action name="salesVolumeMax" type="element" function="max" source="salesVolume" filter=".*n.*"/>
+	<action name="salesVolumeMin" type="element" function="min" source="salesVolume" filter=".*e.*"/>
+	<action name="outpostsAverage" type="element" function="average" source="outposts" filter=".*e.*s.*"/>
+</actions>
